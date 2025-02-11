@@ -1,0 +1,10 @@
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "Male",
+    "dob": "01-10-2000",
+    "email": "patient1@gmail.com",
+    "address": "No.21, xyz street, abc city, yyy, zzz",
+    "admissionDate": "11-02-2025",
+    "diseaseData": "H1N1 fever"
+}
